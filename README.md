@@ -1,4 +1,4 @@
-# Matlab_least_squares
+# Matlab_Linear_regression
 
 xls=A\y
 
